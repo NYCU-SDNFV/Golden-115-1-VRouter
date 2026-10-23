@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "channel": "115-1",
+  "version": "0.1.0",
+  "tag": "115-1-v0.1.0",
+  "template": "NYCU-SDNFV/Golden-115-1-VRouter",
+  "source_sha": "ea539ccc471d30d318e007ea8fc23a4e7548b39b",
+  "minimum_version": "0.1.0"
+}
